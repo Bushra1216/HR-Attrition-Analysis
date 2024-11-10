@@ -6,7 +6,7 @@ This project represent the analysis of employee attrition which identify the key
 
 
 ###### Data Source
-The dataset used in this project is [HR Attrion Data](https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue) containing detailed information on human resource.
+The dataset used in this project is [HR Attrion Data](https://drive.google.com/file/d/1edHkzOJ4u_WZgq1800fZMzqSHN9pvp8M/view?usp=sharing) containing detailed information on human resource.
 
 ### Featured Point
 This project evaluate employee attrition based on following KPIs and various demographic factors including Gender, Education, Job Role, Age, Deparment, Education Level and marital Status.
