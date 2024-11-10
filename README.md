@@ -5,7 +5,12 @@
 This project represent the analysis of employee attrition which identify the key factors contributing to workforce turnover.Here I visualized employee demographics, attrition rate, number of total active employees, attrition by department, education field and other influential factors to uncover insights into attrition patterns within the organization. This analysis provides HR professionals with data_driven insights to inform retention strategies and alleviate attrition rates.
 
 
-###### Data Source
+<br>
+<img align="center" alt="explore"  src="https://github.com/user-attachments/assets/732ee7d8-b796-43ab-8cdb-05ee74dca39c"> <br><br>
+
+
+
+### Data Source
 The dataset used in this project is [HR Attrion Data](https://drive.google.com/file/d/1edHkzOJ4u_WZgq1800fZMzqSHN9pvp8M/view?usp=sharing) containing detailed information on human resource.
 
 ### Featured Point
