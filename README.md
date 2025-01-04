@@ -26,7 +26,7 @@ This project evaluate employee attrition based on following KPIs and various dem
 As the source data was preprocessed, so it made it easier to understand and analyze. To explore the attrition pattern and trends, I visualized key factors of this data that includes:
 
 1. Gender Distribution: 60% Male and 40% female employees.<br>
-2. Attrition Rate: Out of 1,470 employees, 237 have left the organization, resulting in an attrition rate of 16.12%, with 1,233 active employees.<br>
+2. Attrition Rate: Out of 1,470 employees, 237 is left and there are 1,233 active employees resulting in an attrition rate of 16.12% .<br>
 2. Attrition by Department: R&D department (56%), Sales (39%) and HR (5%). <br>
 3. Education wise Attrition: Employee with a B.SC degree experience the highest attrition and Doctoral degree holders has lowest attrion.<br>
 4. Top 5 Job Roles by Attrition: Laboratory Technician and Sales executive  experience the highest attrition whereas Human Resources roles have the lowest. <br>
