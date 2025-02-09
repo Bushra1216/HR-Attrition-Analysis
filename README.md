@@ -23,7 +23,7 @@ This project evaluate employee attrition based on following KPIs and various dem
 
 
 ### Analysis & Visualization
-As the source data was preprocessed, so it made it easier to understand and analyze. To explore the attrition pattern and trends, I visualized key factors of this data that includes:
+As the source data was preprocessed, so it made easier to understand and analyze. To explore the attrition pattern and trends, I visualized key factors of this data that includes:
 
 1. Gender Distribution: 60% Male and 40% female employees.<br>
 2. Attrition Rate: Out of 1,470 employees, 237 is left and there are 1,233 active employees resulting in an attrition rate of 16.12% .<br>
